@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Zombies vs. Vampires Fest",
+    "start": "2025-05-26",
+    "end": "2025-06-02",
+    "description": "Discounts, demos, and more on all things undead — battle it out in this monster-themed event!",
+    "image": "https://cdn.akamai.steamstatic.com/steam/clusters/sale_zombies_vs_vampires/header.jpg",
+    "link": "https://store.steampowered.com/sale/zombies_vs_vampires"
+  },
+  {
+    "name": "Fishing Fest",
+    "start": "2025-06-16",
+    "end": "2025-06-23",
+    "description": "Hot deals for summer!",
+    "image": "https://example.com/summer.jpg",
+    "link": "https://store.steampowered.com/news/group/4145017/view/4264427597939246983"
+  },
+ {
+    "name": "Summer Sale",
+    "start": "2025-06-26",
+    "end": "2025-07-10",
+    "description": "Hot deals for summer!",
+    "image": "https://example.com/summer.jpg",
+    "link": "https://store.steampowered.com/news/group/4145017/view/4264427597939246983"
+  }
+]
