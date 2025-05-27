@@ -1,9 +1,7 @@
 # NoFunds.exe
-A simple bot that detects and posts free games on Steam and Epic Games! Other functionality includes a live Fortnite Shop Tracker tha
+A simple bot that automatically detects and posts free games on Steam and Epic Games! It also tracks Fortnite Twitch Drops, and the item shop that can be viewed from the channel!
 
-A simple discord bot that alerts servers in channels of when a channel goes live! This bot was made to be a simplistic as possible. 
-There are three commands, to add, remove, and to see what channels are currently being tracked by the bot. See below: 
- 
+
 # Bot online
 Preview of the bot online status
 
