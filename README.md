@@ -36,6 +36,5 @@ All commands the bot has to offer:
 # Current Steam Sale
 ![image](https://github.com/user-attachments/assets/38d6f2d7-3956-4146-b679-52f100b0a9ab)
 
-# Fortnite Twitch Drops
 
-# Fortnite Shop
+Last updated: 6/1/2025
