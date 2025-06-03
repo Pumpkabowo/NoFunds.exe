@@ -20,7 +20,7 @@ Preview of the bot online status
 | Command                      | Description                                       |
 |-----------------------------|---------------------------------------------------|
 | `/freegames`            | Shows all current 100% off games from Epic Games weekly games, and Steam        |
-| `//steamsale`   | Shows current and upcoming Steam sales |
+| `/steamsale`   | Shows current and upcoming Steam sales |
 
 
 
